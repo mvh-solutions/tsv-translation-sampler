@@ -54,12 +54,14 @@ function App() {
                         {
                             [
                                 "Source",
-                                "Amazon Cloud",
-                                "Amazon Cloud (Informal)",
+                                "TT",
+                                "AWS",
+                                "AWS Inf",
                                 "DeepL",
-                                "DeepL (informal)",
-                                "Google Cloud",
-                                "No Language Left Behind"
+                                "DeepL Inf",
+                                "GC",
+                                "NLLB",
+                                "ChatGPT"
                             ]
                                 .map(
                                     (f, n) => <tr key={n}>
