@@ -54,7 +54,8 @@ function App() {
                         {
                             [
                                 "Source",
-                                "TT",
+                                "LILT",
+                                "TransMin",
                                 "AWS",
                                 "AWS Inf",
                                 "DeepL",
